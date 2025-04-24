@@ -12,18 +12,18 @@ function App() {
             <a
               className="nav-link active text-white"
               aria-current="page"
-              href="/#/"
+              href="/testing/#/"
             >
               Home
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link text-white" href="/#/Socials">
+            <a className="nav-link text-white" href="/testing/#/Socials">
               Socials
             </a>
           </li>
           <li className="nav-item">
-            <a className="nav-link text-white" href="/#/About">
+            <a className="nav-link text-white" href="/testing/#/About">
               About
             </a>
           </li>
